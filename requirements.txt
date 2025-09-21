@@ -1,0 +1,35 @@
+# 智能产品识别与垃圾分类管理系统 - 依赖库列表
+
+# 核心依赖
+opencv-python>=4.5.0
+pyzbar>=0.1.8
+pillow>=8.0.0
+numpy>=1.19.0
+
+# AI和API相关
+openai>=1.0.0
+requests>=2.25.0
+
+# 语音识别
+speechrecognition>=3.8.0
+pyaudio>=0.2.11
+
+# 图像处理增强
+opencv-contrib-python>=4.5.0
+
+# 数据库
+# sqlite3 是Python内置模块，无需安装
+
+# GUI相关
+# tkinter 是Python内置模块，无需安装
+
+# 其他工具
+base64
+threading
+datetime
+json
+os
+sys
+time
+argparse
+subprocess
